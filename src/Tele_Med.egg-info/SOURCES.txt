@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+src/__init.py
+src/main.py
+src/prompt.py
+src/Tele_Med.egg-info/PKG-INFO
+src/Tele_Med.egg-info/SOURCES.txt
+src/Tele_Med.egg-info/dependency_links.txt
+src/Tele_Med.egg-info/top_level.txt
